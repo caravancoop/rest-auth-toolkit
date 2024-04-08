@@ -1,7 +1,7 @@
 flit
 pip-tools == 7.4.*
 
-django == 4.2.*
+django == 5.0.*
 djangorestframework
 django-debug-toolbar
 dj-database-url
